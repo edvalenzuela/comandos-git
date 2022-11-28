@@ -1,4 +1,4 @@
-# Contenedor :recycle:`
+# Contenedor :recycle:
 
 ## Guardar cambios
 ```
