@@ -1,5 +1,3 @@
-# Ayuda
-
 ## Versión
 ```
 git --version
@@ -10,35 +8,10 @@ git --version
 git --help
 ```
 
-## Ayuda 2
-```
-git --help commit
-```
-
-## Configurar nombre
-```
-git config --global user.name "Lorem Ipsum"
-```
-
-## Configurar correo
-```
-git config --global user.email "loremipsum@gmail.com"
-```
-
-## Mostrar listado de configuraciones
-```
-git config --global -e
-```
-
 ## Salir
 ```
-esc + :w(write) q(quit) !(salir)
+esc :w(write) q(quit) !(salir)
 :wq!
-```
-
-## Crear un alías
-```
-git config --global alias.s "status --short"
 ```
 
 ## Inicializar el repositorio
@@ -61,16 +34,6 @@ git clone URL folder-name
 git remote -v
 ```
 
-## Configurar solo el metodo fast forward del git pull
-```
-git config --global pull.ff only
-```
-
-## Configurar solo el metodo rebase del git pull
-```
-git config --global pull.rebase true
-```
-
 ## Actualizar repositorio y fusiona la rama con los cambios
 ```
 git pull
@@ -90,5 +53,3 @@ git mv example.md demo.md
 ```
 git rm example.md
 ```
-
-

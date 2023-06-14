@@ -1,5 +1,3 @@
-# Contenedor :recycle:
-
 ## Guardar cambios
 ```
 git stash
@@ -39,9 +37,4 @@ git stash save "message-stash"
 ## Ver información de un stash
 ```
 git stash show stash@{2}
-```
-
-## Ver listado de stash con más detalles
-```
-git stash list
 ```

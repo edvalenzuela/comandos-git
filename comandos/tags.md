@@ -1,5 +1,3 @@
-# Versionamiento :bookmark:
-
 ## Crear tag
 ```
 git tag tag-name
@@ -34,6 +32,3 @@ git show v0.1.0
 ```
 git push --tags
 ```
-
-
-

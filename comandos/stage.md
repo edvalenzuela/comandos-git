@@ -1,5 +1,3 @@
-# Escenario :floppy_disk:
-
 ## Mostrar cambios
 ```
 git status
@@ -29,19 +27,14 @@ git add path/.gitkeep
 git add path/.gitignore
 ```
 
-## Remover cambio en un archivo
-```
-git reset name.extension
-```
-
-## Remover cambio en más archivos
-```
-git reset name.extension name2.extension
-```
-
 ## Ver archivos modificados
 ```
 git diff
+```
+
+## Ver archivos modificados de una rama
+```
+git diff name-feature
 ```
 
 ## Ver archivos modificados en el staged
