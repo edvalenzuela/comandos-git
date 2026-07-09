@@ -12,6 +12,7 @@
 | 8 | [Stage]     | Agrega archivos al área de preparación para el próximo commit. |
 | 9 | [Stash]     | Guarda y recupera cambios no confirmados temporalmente. |
 | 10 | [Tags]     | Administra y etiqueta versiones específicas de commits. |
+| 11 | [Rebase]   | Reescritura del historial de commits. |
 
 [Branch]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/branch.md>
 [Checkout]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/checkout.md>
@@ -23,3 +24,4 @@
 [Stage]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/stage.md>
 [Stash]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/stash.md>
 [Tags]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/tags.md>
+[Rebase]: <https://github.com/edvalenzuela/comandos-git/blob/main/comandos/rebase.md>
